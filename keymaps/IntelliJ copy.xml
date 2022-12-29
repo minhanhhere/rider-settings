@@ -1,5 +1,8 @@
 <keymap version="1" name="IntelliJ copy" parent="Mac OS X 10.5+">
-  <action id="RiderCollapseToDefinitions">
+  <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="ctrl meta alt minus" />
+  </action>
+  <action id="RiderCollapseToDefinitions">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
 </keymap>

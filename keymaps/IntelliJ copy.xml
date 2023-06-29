@@ -2,4 +2,9 @@
   <action id="RiderCollapseToDefinitions">
     <keyboard-shortcut first-keystroke="ctrl meta alt minus" />
   </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="alt f9" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="SwitchHeaderSource" />
 </keymap>
